@@ -1,1 +1,1 @@
-# SIMPLE-CALCULATOR
+A basic command-line calculator written in Java that performs simple arithmetic operations such as addition, subtraction, multiplication, division, and modulus. Users input two numbers and an operator, and the program calculates and displays the result
